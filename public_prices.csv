@@ -1,0 +1,56 @@
+observed_on,market,seller_type,item,quantity_reported,price_ngn
+2026-10-06,alaba,wholesale,garri,3 plastic,2700.00
+2026-10-06,alaba,wholesale,honey_beans,2 derica,1800.00
+2026-10-06,alaba,wholesale,ofada_rice,4 derica,8000.00
+2026-10-06,alaba,wholesale,palm_oil,3 bottles,5400.00
+2026-10-06,alaba,wholesale,rice,16 derica,13000.00
+2026-10-06,alaba,wholesale,tomatoes,Half basket,90000.00
+2026-10-06,alaba,wholesale,vegetable_oil,3 liters,5500.00
+2026-10-06,alaba,wholesale,white_beans,2 derica,1700.00
+2026-10-06,alaba,wholesale,yam,5 tubers,7500.00
+2026-10-05,idumota,wholesale,garri,3 plastic,3600.00
+2026-10-05,idumota,wholesale,honey_beans,Half bag,54000.00
+2026-10-05,idumota,wholesale,ofada_rice,8 derica,15000.00
+2026-10-05,idumota,wholesale,palm_oil,5 litres,10500.00
+2026-10-05,idumota,wholesale,palm_oil,5 litres,10500.00
+2026-10-05,idumota,wholesale,rice,A bag,50000.00
+2026-10-05,idumota,wholesale,tomatoes,Half basket,170000.00
+2026-10-05,idumota,wholesale,tomatoes,1 basket,175000.00
+2026-10-05,idumota,wholesale,vegetable_oil,5 litres,10500.00
+2026-10-05,idumota,wholesale,white_beans,2 derica,2000.00
+2026-10-05,idumota,wholesale,yam,3 tubers,4500.00
+2026-10-05,kotangora,retail,garri,2 plastic,3000.00
+2026-10-05,kotangora,retail,honey_beans,5 derica,5000.00
+2026-10-05,kotangora,retail,ofada_rice,2 derica,4000.00
+2026-10-05,kotangora,retail,palm_oil,1 bottle,2000.00
+2026-10-05,kotangora,retail,rice,2 derica,2000.00
+2026-10-05,kotangora,retail,tomatoes,10 pieces,3000.00
+2026-10-05,kotangora,retail,vegetable_oil,1 bottle,2000.00
+2026-10-05,kotangora,retail,white_beans,5 derica,4500.00
+2026-10-05,kotangora,retail,yam,1 tuber,2000.00
+2026-10-02,idumota,supermarket,rice,One DeRica,1500.00
+2026-10-02,oyingbo,retail,garri,Paint,1500.00
+2026-10-02,oyingbo,retail,honey_beans,Derica,3000.00
+2026-10-02,oyingbo,retail,ofada_rice,5kg,10000.00
+2026-10-02,oyingbo,retail,palm_oil,75cl,2000.00
+2026-10-02,oyingbo,retail,rice,Paint,5000.00
+2026-10-02,oyingbo,retail,tomatoes,3kg,3000.00
+2026-10-02,oyingbo,retail,vegetable_oil,75cl,4000.00
+2026-10-02,oyingbo,retail,white_beans,Paint,5000.00
+2026-10-02,oyingbo,retail,yam,1,4000.00
+2026-10-01,alaba,supermarket,white_beans,5kg,3000.00
+2026-10-01,mile 12,retail,garri,Paint,1500.00
+2026-10-01,mile 12,retail,honey_beans,Paint,10000.00
+2026-10-01,mile 12,retail,ofada_rice,Congo,2000.00
+2026-10-01,mile 12,retail,palm_oil,Bottle,1800.00
+2026-10-01,mile 12,wholesale,rice,Derica,2000.00
+2026-10-01,mile 12,retail,tomatoes,Kg,3000.00
+2026-10-01,mile 12,retail,vegetable_oil,75cl,4000.00
+2026-10-01,mile 12,retail,white_beans,Derica,2000.00
+2026-10-01,mile 12,retail,yam,1,3000.00
+2026-09-30,idumota,retail,garri,Paint,1500.00
+2026-09-29,idumota,retail,yam,10pieces,20000.00
+2026-09-23,alaba,retail,garri,5 derica,2000.00
+2026-09-15,kotangora,supermarket,tomatoes,Pack,3000.00
+2026-09-02,mile 12,wholesale,palm_oil,5litre,25000.00
+2026-09-02,oyingbo,retail,vegetable_oil,Gallon,25000.00

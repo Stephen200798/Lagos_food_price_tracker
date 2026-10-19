@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+*.mdf
+*.ldf
+*.bak
+*.csv
+!public_prices.csv
+*Form Responses*.csv
+*Responses*.csv
